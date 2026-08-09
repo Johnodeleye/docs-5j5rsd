@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://resources-s2ct2l.trans88.online/sitemap.xml
